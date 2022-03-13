@@ -1,0 +1,145 @@
+/** @format */
+@media (min-width: 400px) {
+  .footerbag1 {
+    background-color: #5368df;
+    padding: 30px;
+  }
+  .footerbag1 p {
+    color: rgb(255, 255, 255);
+  }
+  .footerbag1 h2 {
+    padding-left: 15%;
+    padding-right: 15%;
+    color: white;
+  }
+  .input {
+    width: 230px;
+    height: 38px;
+    margin-top: 10px;
+    border: 2px solid;
+    border-radius: 6px;
+    border-color: rgb(233, 90, 90);
+  }
+  .button {
+    width: 230px;
+    height: 38px;
+    background-color: rgb(233, 90, 90);
+    border: 0px solid;
+    border-radius: 6px;
+    color: white;
+  }
+  .buttondiv {
+    margin-top: 10px;
+  }
+
+  .section2 {
+    background-color: #25259c;
+  }
+  .logo {
+    margin-top: 20px;
+  }
+  .sectionimgandtextdiv {
+    color: white;
+    margin: 20px;
+    margin-bottom: 20px;
+  }
+  .fb {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+  }
+  
+  .tw {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+  }
+}
+@media (min-width: 801px) {
+  .footerbag1 h2 {
+    padding-left: 220px;
+    padding-right: 220px;
+  }
+  .sectionbtn {
+    display: flex;
+    justify-content: space-between;
+  }
+  .input {
+    width: 180px;
+  }
+  .inputdiv {
+    padding-left: 48%;
+  }
+  .button {
+    width: 90px;
+  }
+  .buttondiv {
+    padding-left: 3%;
+  }
+  .section2 {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 130px;
+  }
+  .sectionimgandtextdiv {
+    display: flex;
+    justify-content: space-between;
+  }
+  .p1:hover {
+    color: rgb(233, 90, 90);
+  }
+  .p2:hover {
+    color: rgb(233, 90, 90);
+  }
+  .p3:hover {
+    color: rgb(233, 90, 90);
+  }
+  .p1 {
+    padding-right: 30px;
+  }
+  .p3 {
+    padding-left: 30px;
+  }
+  .fb1:hover {
+    color: rgb(233, 90, 90);
+  }
+}
+@media (min-width: 1202px) {
+  .footerbag1 h2 {
+    padding-left: 400px;
+    padding-right: 400px;
+  }
+
+  .input {
+    width: 180px;
+  }
+  .inputdiv {
+    padding-left: 58%;
+  }
+  .button {
+    width: 90px;
+  }
+  .buttondiv {
+    padding-left: 0%;
+  }
+}
+@media (min-width: 1281px) {
+  .footerbag1 h2 {
+    padding-left: 400px;
+    padding-right: 400px;
+  }
+
+  .input {
+    width: 180px;
+  }
+  .inputdiv {
+    padding-left: 110%;
+  }
+  .button {
+    width: 90px;
+  }
+  .buttondiv {
+    padding-left: 10%;
+  }
+}
